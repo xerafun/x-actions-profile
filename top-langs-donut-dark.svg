@@ -1,0 +1,14 @@
+
+      <svg width="300" height="140" viewBox="0 0 300 140" xmlns="http://www.w3.org/2000/svg" role="img">
+          <style>
+            .donut-segment { fill: transparent; stroke-width: 20; }
+            text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; dominant-baseline: middle; fill: #c9d1d9; }
+          </style>
+          <rect width="100%" height="100%" fill="#0d1117" rx="12" stroke="#30363d"/>
+          <g transform="translate(70, 70) rotate(-90)">
+            <circle class="donut-segment" r="45" stroke="#F05138" stroke-dasharray="133.17211258567133 282.7433388230814" stroke-dashoffset="-0"/><circle class="donut-segment" r="45" stroke="#3178c6" stroke-dasharray="44.67344753404686 282.7433388230814" stroke-dashoffset="-133.17211258567133"/><circle class="donut-segment" r="45" stroke="#A97BFF" stroke-dasharray="39.301324096408315 282.7433388230814" stroke-dashoffset="-177.8455601197182"/><circle class="donut-segment" r="45" stroke="#3572A5" stroke-dasharray="32.79822730347744 282.7433388230814" stroke-dashoffset="-217.14688421612655"/><circle class="donut-segment" r="45" stroke="#f1e05a" stroke-dasharray="20.64026373408494 282.7433388230814" stroke-dashoffset="-249.94511151960396"/><circle class="donut-segment" r="45" stroke="#563d7c" stroke-dasharray="5.654866776461628 282.7433388230814" stroke-dashoffset="-270.5853752536889"/>
+          </g>
+          <g transform="translate(150, 21)">
+            <g transform="translate(0, 0)"><circle cx="5" cy="0" r="5" fill="#F05138"/><text x="15">Swift 47.1%</text></g><g transform="translate(0, 18)"><circle cx="5" cy="0" r="5" fill="#3178c6"/><text x="15">TypeScript 15.8%</text></g><g transform="translate(0, 36)"><circle cx="5" cy="0" r="5" fill="#A97BFF"/><text x="15">Kotlin 13.9%</text></g><g transform="translate(0, 54)"><circle cx="5" cy="0" r="5" fill="#3572A5"/><text x="15">Python 11.6%</text></g><g transform="translate(0, 72)"><circle cx="5" cy="0" r="5" fill="#f1e05a"/><text x="15">JavaScript 7.3%</text></g><g transform="translate(0, 90)"><circle cx="5" cy="0" r="5" fill="#563d7c"/><text x="15">CSS 2.0%</text></g>
+          </g>
+      </svg>

@@ -1,0 +1,10 @@
+
+      <svg width="300" height="140" viewBox="0 0 300 140" xmlns="http://www.w3.org/2000/svg" role="img">
+          <style>.title{font-size:14px;font-weight:600;fill:#24292e} .legend-text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:12px;dominant-baseline:middle;fill:#586069}</style>
+          <rect width="100%" height="100%" fill="#ffffff" rx="12" stroke="#e1e4e8"/>
+          <text x="16" y="28" class="title">Most Used Languages</text>
+          <rect x="16" y="45" height="10" width="268" rx="5" fill="#eaecef"/>
+          <defs><clipPath id="colored-bar-clip"><rect x="16" y="45" height="10" width="261.836" rx="5"/></clipPath></defs>
+          <g clip-path="url(#colored-bar-clip)"><rect x="16" y="45" height="10" width="126.22800000000001" fill="#F05138"/><rect x="142.228" y="45" height="10" width="42.344" fill="#3178c6"/><rect x="184.572" y="45" height="10" width="37.252" fill="#A97BFF"/><rect x="221.824" y="45" height="10" width="31.087999999999997" fill="#3572A5"/><rect x="252.912" y="45" height="10" width="19.564" fill="#f1e05a"/><rect x="272.476" y="45" height="10" width="5.36" fill="#563d7c"/></g>
+          <g><g transform="translate(16, 75)"><circle r="5" fill="#F05138"/><text x="10" class="legend-text">Swift <tspan class="legend-percent">47.1%</tspan></text></g><g transform="translate(160, 75)"><circle r="5" fill="#3178c6"/><text x="10" class="legend-text">TypeScript <tspan class="legend-percent">15.8%</tspan></text></g><g transform="translate(16, 95)"><circle r="5" fill="#A97BFF"/><text x="10" class="legend-text">Kotlin <tspan class="legend-percent">13.9%</tspan></text></g><g transform="translate(160, 95)"><circle r="5" fill="#3572A5"/><text x="10" class="legend-text">Python <tspan class="legend-percent">11.6%</tspan></text></g><g transform="translate(16, 115)"><circle r="5" fill="#f1e05a"/><text x="10" class="legend-text">JavaScript <tspan class="legend-percent">7.3%</tspan></text></g><g transform="translate(160, 115)"><circle r="5" fill="#563d7c"/><text x="10" class="legend-text">CSS <tspan class="legend-percent">2.0%</tspan></text></g></g>
+      </svg>
